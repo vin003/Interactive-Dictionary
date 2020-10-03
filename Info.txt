@@ -1,0 +1,6 @@
+Here I am using the json file to read the contents which stored the information in the form of key value pairs.
+Skills to be utilized 
+python , sqlite3, pandas 
+Initial level difficulties in handling the user inputs and bring more information to make it more appealing 
+Word suggestion based on approximation
+eg tiher    Suggestion did you mean tiger instead ? 
